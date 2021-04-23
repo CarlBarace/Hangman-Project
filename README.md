@@ -1,5 +1,5 @@
 # Hangman-Project
 
-This is a project that lets you choose from a list of words randomly and you will be guessing the word.
+This is a project that randomly choose a word from a list of words and you will be guessing the word.
 
 Enjoy!
